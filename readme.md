@@ -66,7 +66,7 @@ python train.py --config data.yaml --epochs 50
 - Với đo khoảng cách, đảm bảo `object_widths.csv` chứa chiều rộng thật của đối tượng tương ứng class để tính đúng khoảng cách.
 
 **Người làm dự án**
-- Lê Trung Hữu: 23666491
+- Huỳnh Nhật Hào: 23663871
 - Môn học Trí Tuệ Nhân tạo tại đại học Công Nghiệp thành phố Hồ Chính Minh
 
 -------------------------------------------------------- CẢM ƠN MỌI NGƯỜI ĐÃ XEM!! -----------------------------------------------------------
